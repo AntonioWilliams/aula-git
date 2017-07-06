@@ -1,9 +1,5 @@
 package br.curso.modelo;
 
-/**
- * @author ashraf
- *
- */
 public class Student {
 	
 	private long id;
@@ -11,13 +7,8 @@ public class Student {
 	private String lastName;
 	private String gender;
 	private int age;
-	/**
-	 * @param id
-	 * @param firstName
-	 * @param lastName
-	 * @param gender
-	 * @param age
-	 */
+
+	
 	public Student(long id, String firstName, String lastName, String gender,
 			int age) {
 		super();
