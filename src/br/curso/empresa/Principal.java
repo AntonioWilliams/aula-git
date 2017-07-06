@@ -5,6 +5,15 @@ import java.util.GregorianCalendar;
 
 import br.curso.modelo.Funcionario;
 
+
+/*
+ * Cada macaco do seu galho.
+ * 
+ * Vamos ver como fazer isso.
+ * 
+ */
+
+
 public class Principal {
 	
 	public static void main(String[] args) {
