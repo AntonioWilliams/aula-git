@@ -25,7 +25,7 @@ public class Leitor {
 		BufferedReader fileReader = null;
 
 		try {
-
+			//comments its alive
 			// Create a new list of student to be filled by CSV file data
 			List<Student> students = new ArrayList<Student>();
 
