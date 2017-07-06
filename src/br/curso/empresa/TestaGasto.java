@@ -9,6 +9,8 @@ import br.curso.modelo.Gasto;
 public class TestaGasto {
 	
 	public static void main(String[] args) {
+		
+		//calma cocada, vamos ver isso.
 		Calendar dataNascimento = new  GregorianCalendar(1987, 5, 14);
 		Funcionario funcionario = new Funcionario("maleta", "456", dataNascimento );
 		Calendar hoje = Calendar.getInstance();

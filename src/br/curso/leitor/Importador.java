@@ -11,6 +11,10 @@ public class Importador {
 		Scanner leitor = new Scanner(entrada);
 		ArrayList<Gasto> gastos = new ArrayList<Gasto>();
 		
-		
+		/*
+		 * com essa nova versao ficara muito facil
+		 * 
+		 * 
+		 */
 	}
 }
